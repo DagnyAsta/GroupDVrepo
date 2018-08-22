@@ -2,8 +2,8 @@ def reverse_string(s):
     """
     Reverses order or characters in string s.
     """
-    return s
-#return s[::-1]
+
+    return s[::-1]
 
 
 def test_reverse_string():
